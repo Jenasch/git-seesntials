@@ -1,4 +1,3 @@
-# Git Essentials / Git FOr EVerybody
+# Git Essentials / Git For Everybody
 
-This si a course to teach you how to use everyday git
-Course being completed by ME 
+This needs to say something else (master branch)
